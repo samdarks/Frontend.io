@@ -82,7 +82,7 @@ Focus on optmizing styling components and a styling framework
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@SamDarks](https://www.frontendmentor.io/profile/samdarks)
 
 
 
